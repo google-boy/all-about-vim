@@ -1,7 +1,8 @@
 # Learning Vim Editor
 
-#### References
-><a>http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/</a>
+## References
+
+><http://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/>
 
 ## 1. 1st Level - Survive
 
