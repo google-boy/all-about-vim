@@ -6,7 +6,7 @@
 
 ## 1. 1st Level - Survive
 
-In a standard editor, typing on the keyboard is enough to write something amd see on the screen. Not this time! Vim starts on Normal mode. To go to ***Insert*** mode press i on the keyboard.
+In a standard editor, typing on the keyboard is enough to write something and see on the screen. Not this time! Vim starts on Normal mode. To go to ***Insert*** mode press i on the keyboard.
 
 You should feel a bit better. You can type letters just like in a standard editor. To get back to ***Normal mode*** just press **ESC** key.
 
